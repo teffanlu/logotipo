@@ -1,12 +1,12 @@
-# IDUNA — Concepto de Logotipo (v2)
+# IDUNA — Concepto de Logotipo (v3)
 
-Marca paraguas. Primera categoría: **IDUNA Skin System**.
-Estilo objetivo (según referencias del cliente: VORA, sorela): **trazo fluido y orgánico** + **wordmark serif elegante** estilo *Skin Lab*.
+Dirección confirmada con el cliente:
+- **Isotipo:** símbolo **abstracto de trazo continuo (monolínea)**, sin relación literal con el nombre, pensado como **sello distintivo de impacto** en el empaque.
+- **Wordmark:** nombre debajo, tipografía **elegante pero suave** (nada técnico ni recto).
 
-> Nota: el wordmark se ve con una serif del sistema (Georgia/Times). La tipografía final recomendada es **Cormorant Garamond** o **Canela**, que se aplicará en Illustrator.
+> El nombre se ve aquí en *Georgia itálica* solo como aproximación. La fuente final recomendada (suave/elegante) será **Recoleta**, **Tan Pearl** o **Playfair Display Italic**, montada en Illustrator.
 
 ## Paleta oficial
-
 | Rol | Color | HEX |
 |---|---|---|
 | Base / fondo | Crema Arena | `#F5F1E9` |
@@ -17,18 +17,17 @@ Estilo objetivo (según referencias del cliente: VORA, sorela): **trazo fluido y
 
 ---
 
-## Propuesta A — "Brote de Iduna"  ⭐ recomendada
-La **"i"** de Iduna: una gota-hoja (renovación + skincare) como punto, sobre un tallo elegante.
-Significado claro, minimalista, escalable a favicon.
+## Símbolo 1 — "Nudo / Lazo continuo"
+Lazo abstracto de una sola línea. Limpio, simétrico, fuerte como sello.
 
-![A](propuestas/A-brote-iduna.svg)
+![1](propuestas/1-nudo.svg)
 
-## Propuesta B — "Cursiva-Lazo" (estilo VORA)
-Trazo continuo caligráfico: hoja-lazo que fluye en una cola. La más cercana al sentir de VORA.
+## Símbolo 2 — "Espiral + Destello"
+Espiral abierta con un destello (estilo premium tipo *Via Platina*). Sugiere renovación/energía sin ser literal.
 
-![B](propuestas/B-cursiva-lazo.svg)
+![2](propuestas/2-espiral-destello.svg)
 
-## Propuesta C — "Semilla en Espiral"
-Espiral abierta = renovación / equilibrio. La más abstracta y orgánica (estilo sorela).
+## Símbolo 3 — "Roseta de 3 pétalos"
+Tres pétalos en monolínea. Muy distintivo y "estampa", elegante en empaque.
 
-![C](propuestas/C-semilla-espiral.svg)
+![3](propuestas/3-roseta.svg)

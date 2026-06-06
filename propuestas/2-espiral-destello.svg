@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="560" viewBox="0 0 520 560">
+  <rect width="520" height="560" fill="#F5F1E9"/>
+  <!-- SIMBOLO 2: Espiral abierta + destello (estilo "Via Platina") -->
+  <g fill="none" stroke="#A45A41" stroke-width="6.5" stroke-linecap="round">
+    <path d="M296 152 C296 124 250 118 230 149 C210 180 243 214 275 199 C297 189 299 162 279 155 C266 150 258 167 268 177"/>
+  </g>
+  <path d="M308 120 C310 131 314 135 325 137 C314 139 310 143 308 154 C306 143 302 139 291 137 C302 135 306 131 308 120 Z" fill="#A45A41"/>
+  <!-- WORDMARK suave (italica elegante) -->
+  <text x="260" y="380" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="60" fill="#2D2D2D">Iduna</text>
+  <text x="260" y="412" text-anchor="middle" font-family="Georgia, serif" font-size="13" letter-spacing="9" fill="#A45A41">SKIN SYSTEM</text>
+</svg>
