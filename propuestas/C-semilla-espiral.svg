@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="600" viewBox="0 0 520 600">
+  <rect width="520" height="600" fill="#F5F1E9"/>
+  <!-- ISOTIPO: semilla en espiral abierta = renovacion / equilibrio -->
+  <g fill="none" stroke="#A45A41" stroke-width="7" stroke-linecap="round">
+    <path d="M300 200 C300 162 246 158 226 192 C206 226 238 262 272 248 C298 237 302 206 280 198 C264 192 256 210 268 220"/>
+  </g>
+  <!-- WORDMARK estilo Skin Lab -->
+  <text x="252" y="452" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif" font-size="60" font-weight="500" letter-spacing="16" fill="#2D2D2D">IDUNA</text>
+  <text x="258" y="486" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="11" fill="#A45A41">SKIN SYSTEM</text>
+</svg>
