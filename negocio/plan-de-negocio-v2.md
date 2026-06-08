@@ -59,7 +59,7 @@
 | Skincare (héroes: gel conductor, sérum, protector solar) | ~$700 | Marcas conocidas, buen margen mayorista |
 | Aparatos de entrada (gua sha, cryo — baratos, para testear) | ~$450 | No apostar a los caros aún |
 | Empaque tercerizado premium | ~$300 | Cajas/pouches pre-hechos |
-| Flete marítimo | ~$250 | Límite 0.15 CBM |
+| Flete marítimo | ~$250 | Mínimo 0.15 CBM para enviar; se puede llevar más (paga más flete) |
 | Colchón / imprevistos (innegociable) | ~$525 | Oxígeno |
 | Laboratorio in-house (Cameo, etc.) | $0 | DECISIÓN PENDIENTE — ver sección 8 |
 | Reserva flexible | ~$400 | Hasta tener cotizaciones reales |
@@ -94,7 +94,7 @@
 
 - **Skincare USA vía casillero:** viable, pero comprar solo a distribuidores autorizados (riesgo de falsificación). Verificar margen real y requisitos de aduana/registro sanitario con el abogado.
 - **Alternativa:** explorar mayoristas dentro de Venezuela (el flete USA puede matar el margen).
-- **Aparatología Alibaba:** primer lote genérico sin personalización; límite 0.15 CBM de flete.
+- **Aparatología Alibaba:** primer lote genérico sin personalización. La agencia (casillero en China) exige un MÍNIMO de 0.15 CBM para el envío marítimo; se puede llevar más (solo aumenta el flete). Tránsito 60-70 días. Consolida varios proveedores en un mismo envío.
 
 ---
 
