@@ -55,10 +55,6 @@ Producto pequeño/liviano aprox. +$7/u de costos. Objetivo de margen del aparato
 - **Sale del lote 1** (canibaliza al gua sha en el rol "desinflamar mañana"). El **gua sha de acero se enfría en la nevera** y cubre esa función con un solo SKU.
 - Fase 2: traerlo como SKU distinto (ángulo "escudo anti-calor de Maracaibo").
 
-### 5. Empaque — PARCIAL
-- Gua sha ya trae bolsita. Falta definir caja/pouch premium + stickers/tarjetas (impresión local).
-- Pouches que se aplastan optimizan CBM.
-
 ### 5. Empaque — EN DEFINICIÓN (arranca tras asegurar los 2 productos)
 - Gua sha trae **white bag gratis** (anti-rayón tránsito). El **cloth bag de Easter ($0.40) es opcional** → mejor declinarlo.
 - Empaque de cara al cliente desde proveedor aparte: **faux suede pouch (~$0.37)** + **pañuelo limpiador microfibra (~$0.28)**, MOQ 100. Confirmar que el TAMAÑO acomode gua sha (corazón) y aparato (140×52×28mm).
