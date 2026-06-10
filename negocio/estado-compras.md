@@ -64,7 +64,32 @@ Producto pequeño/liviano aprox. +$7/u de costos. Objetivo de margen del aparato
 - Empaque de cara al cliente desde proveedor aparte: **faux suede pouch (~$0.37)** + **pañuelo limpiador microfibra (~$0.28)**, MOQ 100. Confirmar que el TAMAÑO acomode gua sha (corazón) y aparato (140×52×28mm).
 - La marca la carga el **sticker + tarjeta** (impresión local). Pouches/pañuelo se aplastan = buen CBM. Consolidar como 3er proveedor China en el mismo envío.
 
-### 6. Máscara LED — FASE 2
+### 6. Micro-accesorios + arquitectura de kits
+**Idea clave:** no hacen falta más aparatos para armar kits. Los accesorios + skincare convierten los 2 productos en kits completos tipo "sistema".
+
+**Micro-accesorios a sumar al lote 1** (baratos, casi 0 CBM, branding propio permitido = NO son cosméticos):
+| Accesorio | Búsqueda | ~Precio | MOQ | Cant. |
+|---|---|---|---|---|
+| Cintillo de felpa/spa | `spa headband coral fleece` | $0.30-0.70 | 50-100 | 100 |
+| Espátula de silicona | `silicone face mask applicator spatula` | $0.10-0.30 | 100-500 | 100 |
+| Muñequera microfibra (opc.) | `microfiber wrist wash band spa` | $0.20-0.50/par | 100-200 | 50 par |
+- Consolidar en UN proveedor (preguntar al del faux suede pouch + pañuelo si también los hace). Filtros: Verified + TA + 3+ años. Color: carbón/crema/terracota. Logo sube MOQ → lote 1 va liso + sticker. Costo total 100 c/u ≈ $50-90.
+
+**Escalera de kits (precios corregidos — todo kit con galvánico vende $95+, NO $55):**
+| Kit | Contenido | Precio |
+|---|---|---|
+| Entrada (sin aparato) | gua sha + cintillo + espátula silicona + limpiador resellado | $25-35 |
+| Héroe (con galvánico) | galvánico + suero + aloe + gua sha + accesorios | $95-110 |
+| Premium | galvánico + gua sha + skincare completo + textiles | $120-150 |
+
+**Orden de incorporación:**
+- **Lote 1:** micro-accesorios (cintillo + espátula + microfibra).
+- **Fast-follow** (apenas el galvánico valide): **espátula ultrasónica** ($3-5, bajo CBM) — ojo, solapa parcial con el modo ION+ del galvánico, no sobrevender juntos. O test chico 5-8 uds.
+- **Fase 2:** cepillo de silicona (solapa limpieza), criocucharas (canibalizan gua sha + CBM), máscara LED (alto CBM, canibaliza el LED del galvánico).
+
+**EVITAR siempre (baneo Meta + daño real + ética):** dermaroller/microagujas, succionador de poros al vacío, alta frecuencia doméstica.
+
+### 7. Máscara LED — FASE 2
 - NO comprar aún. Solo registrar precios. Abulta mucho (CBM) y es cara.
 
 ---
