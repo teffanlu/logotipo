@@ -16,6 +16,7 @@ Repositorio de marca y plan de negocio de **IDUNA** (marca paraguas) y su primer
 - `analisis-competencia.md` — Análisis de competidores locales y posicionamiento.
 - `compra-alibaba.md` — Sistema de búsqueda, evaluación y costeo de proveedores.
 - `estado-compras.md` — Estado de la investigación de compras (handoff).
+- PDFs de proveedor (microcorriente NV-IH01): sales sheet y manual de uso.
 
 ### Raíz
 - `image_f7afa246.svg` — Archivo maestro original del logotipo (isotipo + wordmark).
