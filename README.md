@@ -17,17 +17,3 @@ Dirección confirmada con el cliente:
 
 ---
 
-## Símbolo 1 — "Nudo / Lazo continuo"
-Lazo abstracto de una sola línea. Limpio, simétrico, fuerte como sello.
-
-![1](propuestas/1-nudo.svg)
-
-## Símbolo 2 — "Espiral + Destello"
-Espiral abierta con un destello (estilo premium tipo *Via Platina*). Sugiere renovación/energía sin ser literal.
-
-![2](propuestas/2-espiral-destello.svg)
-
-## Símbolo 3 — "Roseta de 3 pétalos"
-Tres pétalos en monolínea. Muy distintivo y "estampa", elegante en empaque.
-
-![3](propuestas/3-roseta.svg)
