@@ -65,16 +65,25 @@
 | Reserva flexible | ~$400 | Hasta tener cotizaciones reales |
 | **Total** | **~$2,625** | |
 
+> **Nota (jun 2026):** la lista del lote 1 se afinó — héroe = **aparato GALVÁNICO** (no microcorriente), gua sha = entrada, + micro-accesorios; **cryo y EMS pasan a Fase 2**; el gel = **gel de aloe de marca por ruta USA** (no China, no marca propia). Cantidades y detalle en `estado-compras.md`; costeo y control de capital en `control-financiero.md`.
+
 ---
 
 ## 5. Fases y línea de tiempo (lanzar en Q4 2026)
 
 | Periodo | Etapa | Acciones |
 |---|---|---|
-| Jun-Jul | **Fase 0 — Validación** | Contenido + audiencia + estudio de mercado lean + cotizaciones. SAPI avanza |
-| Agosto | **Compra** | Ordenar inventario con datos reales |
-| Sep-Oct | **Logística** | Flete + recepción + preparación/empaque |
-| Nov-Dic | **Lanzamiento** | Salida en temporada navideña (mejor época de venta) |
+| Jun-Jul | **Fase 0 — Validación + Sourcing** | Contenido + audiencia IG · estudio lean · cerrar proveedores China (gua sha ✓ Easter, **aparato galvánico** Xiazhifeng/Nove en espera, micro-accesorios + empaque). **Gel y cryo salen del lote 1.** SAPI en paralelo. Definir **envíos nacionales** (MRW/Zoom/Tealca) |
+| **Julio (China)** | **Compra China** | Ordenar y consolidar en casillero China: Easter + Xiazhifeng/Nove + empaque/accesorios. **Pedir 1-2 uds de respaldo del aparato** |
+| **Julio → en vía (USA)** | **Compra USA** | Skincare + gel de aloe (casillero Miami): **NO en julio; ejecutar cuando China esté EN VÍA** (rápido, llega fresco). YesStyle/Ulta |
+| Sep-Oct | **Logística** | Recepción marítima (60-70d) + recibir skincare USA + "idunizar" (stickers, pouch, pañuelo, tarjeta-QR) |
+| Nov-Dic | **Lanzamiento** | Vender en la ola navideña, **con envíos a toda Venezuela**. Kits = regalos |
+
+### ⏰ Fecha tope para pedir en Alibaba (cuenta regresiva, tránsito 70 días)
+Contando hacia atrás desde "listo para vender ~1 nov":
+- Listo ~1 nov → llega a Maracaibo ~20 oct → zarpa del casillero ~11 ago → todo en casillero ~4 ago → **PEDIR antes de ~14-15 julio**.
+- **Tope sano: 15 de julio** (ideal: primera quincena de julio). **Límite absoluto: ~8 de agosto** (más tarde se pierde octubre y parte de noviembre).
+- **Cuello de botella = el proveedor más lento** (el casillero espera a TODOS para consolidar). Confirmar el *lead time hasta el casillero* de cada uno (gua sha ~15 días; aparato y empaque: preguntar). Si alguno tarda más que el gua sha, esa es la nueva base de cálculo.
 
 **Hito de lanzamiento ("Operación Retorno"):** punto de equilibrio + 20-50 clientes con testimonio que validen que la educación funciona.
 
