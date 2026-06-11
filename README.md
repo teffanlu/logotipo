@@ -1,10 +1,25 @@
-# IDUNA — Concepto de Logotipo (v3)
+# IDUNA SKIN SYSTEM
 
-Dirección confirmada con el cliente:
-- **Isotipo:** símbolo **abstracto de trazo continuo (monolínea)**, sin relación literal con el nombre, pensado como **sello distintivo de impacto** en el empaque.
-- **Wordmark:** nombre debajo, tipografía **elegante pero suave** (nada técnico ni recto).
+Repositorio de marca y plan de negocio de **IDUNA** (marca paraguas) y su primera categoría, **IDUNA SKIN SYSTEM**: skincare y aparatología facial/corporal de uso doméstico, con educación y curaduría como diferenciador ("el puente entre la cabina y tu casa").
 
-> El nombre se ve aquí en *Georgia itálica* solo como aproximación. La fuente final recomendada (suave/elegante) será **Recoleta**, **Tan Pearl** o **Playfair Display Italic**, montada en Illustrator.
+## Estructura del repositorio
+
+### `marca/` — Identidad visual
+- `variantes/` — Isotipo IDUNA en sus versiones oficiales (charcoal, sobre crema, blanco sobre terracota, oro sobre charcoal, versión compacta y favicon).
+- `mockups/` — Aplicaciones de marca (tarro, frasco, caja, stickers, post de Instagram).
+- `brand-sheet-v1.svg` — Hoja de marca: logo + sistema de color + las 3 Fases + tipografía.
+- `favicon-test.svg` — Prueba de legibilidad del isotipo en tamaños pequeños.
+- `README.md` — Detalle del kit de variantes y diagnóstico de legibilidad.
+
+### `negocio/` — Estrategia y operación
+- `plan-de-negocio-v2.md` — Plan de negocio (modelo, segmentos, finanzas, fases, riesgos).
+- `analisis-competencia.md` — Análisis de competidores locales y posicionamiento.
+- `compra-alibaba.md` — Sistema de búsqueda, evaluación y costeo de proveedores.
+- `estado-compras.md` — Estado de la investigación de compras (handoff).
+- PDFs de proveedor (microcorriente NV-IH01): sales sheet y manual de uso.
+
+### Raíz
+- `image_f7afa246.svg` — Archivo maestro original del logotipo (isotipo + wordmark).
 
 ## Paleta oficial
 | Rol | Color | HEX |
@@ -15,19 +30,6 @@ Dirección confirmada con el cliente:
 | Acento | Nude Suave | `#E8C5B0` |
 | Premium (digital) | Oro Mate | `#B08D57` |
 
----
-
-## Símbolo 1 — "Nudo / Lazo continuo"
-Lazo abstracto de una sola línea. Limpio, simétrico, fuerte como sello.
-
-![1](propuestas/1-nudo.svg)
-
-## Símbolo 2 — "Espiral + Destello"
-Espiral abierta con un destello (estilo premium tipo *Via Platina*). Sugiere renovación/energía sin ser literal.
-
-![2](propuestas/2-espiral-destello.svg)
-
-## Símbolo 3 — "Roseta de 3 pétalos"
-Tres pétalos en monolínea. Muy distintivo y "estampa", elegante en empaque.
-
-![3](propuestas/3-roseta.svg)
+## Tipografía
+- **Wordmark / titulares:** Marcellus (logo) · alternativas: Recoleta / Playfair Display Italic.
+- **Texto / cuerpo:** sans-serif neutra (Inter / Montserrat).
